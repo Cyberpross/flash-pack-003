@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 984.1859359741211,
+  "sizeMB": 984.315507888794,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1357,6 +1357,7 @@
     "y8-browser-web-setup-1.0.10_202502",
     "bubblespinner_flash",
     "dkonga_flash",
-    "bubblepuzzle"
+    "bubblepuzzle",
+    "cartoon-network-japan-game-flash"
   ]
 }
