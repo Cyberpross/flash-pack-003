@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 1007.3834457397461,
+  "sizeMB": 1007.579421043396,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1372,6 +1372,7 @@
     "8e50c8c5-d60f-73d5-3a97-f73359977ea2",
     "make-a-scene-circus",
     "what-kind-of-gear-did-you-come-down-with-game",
-    "cyberchase_bodymath_flash"
+    "cyberchase_bodymath_flash",
+    "cyberchase_circles_flash"
   ]
 }
