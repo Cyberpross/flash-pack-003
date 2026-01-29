@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 315.57489585876465,
+  "sizeMB": 316.612681388855,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1159,6 +1159,7 @@
     "1100_laby",
     "1100_wuzi_chess",
     "sues-ice-cream-shop",
-    "super_mario-bros"
+    "super_mario-bros",
+    "swords-and-sandals-demo_flash"
   ]
 }
