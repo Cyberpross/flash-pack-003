@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 591.8019857406616,
+  "sizeMB": 595.0625457763672,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1225,6 +1225,7 @@
     "themehotel",
     "teletoon-personality-test",
     "slackman_flash",
-    "sky-defender"
+    "sky-defender",
+    "scratch-2.0_202401"
   ]
 }
