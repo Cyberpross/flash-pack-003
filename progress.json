@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 1019.0849847793579,
+  "sizeMB": 1019.1502532958984,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1376,6 +1376,7 @@
     "cyberchase_circles_flash",
     "cyberchase_combinations_flash",
     "0.3c-20211210",
-    "567373-13-zombiecs-52"
+    "567373-13-zombiecs-52",
+    "dogpound"
   ]
 }
