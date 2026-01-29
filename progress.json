@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 985.0223388671875,
+  "sizeMB": 985.1463575363159,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1360,6 +1360,7 @@
     "bubblepuzzle",
     "cartoon-network-japan-game-flash",
     "drinkingwithstarfleet",
-    "cardcaptor-puzzle-en"
+    "cardcaptor-puzzle-en",
+    "balance_"
   ]
 }
