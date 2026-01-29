@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 283.7963285446167,
+  "sizeMB": 285.7479410171509,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1137,6 +1137,7 @@
     "escapingtheprisonsp",
     "fishy-fishy",
     "generic-defense-game",
-    "0.1b-20211210_202311"
+    "0.1b-20211210_202311",
+    "golden-minigames-flappy-bucket"
   ]
 }
