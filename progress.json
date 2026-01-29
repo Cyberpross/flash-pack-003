@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 774.9936151504517,
+  "sizeMB": 775.0225982666016,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1275,6 +1275,7 @@
     "game_monsterbaby",
     "game_20210719",
     "electric-box-2",
-    "a51_20230814"
+    "a51_20230814",
+    "doublewires_flash"
   ]
 }
