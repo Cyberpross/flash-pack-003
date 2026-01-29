@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 599.4281005859375,
+  "sizeMB": 601.5284614562988,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1227,6 +1227,7 @@
     "slackman_flash",
     "sky-defender",
     "scratch-2.0_202401",
-    "stark-tower-defense"
+    "stark-tower-defense",
+    "sports-heads-tennis-open"
   ]
 }
