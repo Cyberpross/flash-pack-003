@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 741.4033651351929,
+  "sizeMB": 742.2208881378174,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1250,6 +1250,7 @@
     "george-the-unlucky-fish",
     "worlds_hg2",
     "wowgamebeta3.2newground",
-    "1100_commando_2"
+    "1100_commando_2",
+    "1100_flappy"
   ]
 }
