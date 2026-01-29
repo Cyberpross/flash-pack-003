@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 769.2734746932983,
+  "sizeMB": 769.4159049987793,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1272,6 +1272,7 @@
     "2547-yacht-race",
     "2585-totem-destroyer",
     "spritz_flash",
-    "game_monsterbaby"
+    "game_monsterbaby",
+    "game_20210719"
   ]
 }
