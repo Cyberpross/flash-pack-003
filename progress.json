@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 787.009711265564,
+  "sizeMB": 787.1231861114502,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1284,6 +1284,7 @@
     "flash_tikky",
     "egg-labyrinth",
     "fancypantsadventureworld_202101",
-    "dynastystreetgame"
+    "dynastystreetgame",
+    "mahjong_202012"
   ]
 }
