@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 155.37332725524902,
+  "sizeMB": 155.86537075042725,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1091,6 +1091,7 @@
     "1100_mah_jong_connect",
     "1100_metal_slug_rampage",
     "1100_miniclip_tetris",
-    "1100_action_driving_game"
+    "1100_action_driving_game",
+    "1100_barry_potter"
   ]
 }
