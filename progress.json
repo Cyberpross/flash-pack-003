@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 70.72587776184082,
+  "sizeMB": 70.79354572296143,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1050,6 +1050,7 @@
     "cube-field",
     "solipskier_flash",
     "dead_zed_21",
-    "sonic-break-the-target"
+    "sonic-break-the-target",
+    "cyberchase_web_game3_flash"
   ]
 }
