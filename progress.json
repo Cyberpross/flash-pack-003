@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 124.79655265808105,
+  "sizeMB": 126.9296989440918,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1078,6 +1078,7 @@
     "submachine_flash",
     "super-flash-mario-bros",
     "super-mario-bros-flash",
-    "super-mario-flash-2-ver-c"
+    "super-mario-flash-2-ver-c",
+    "super_mario-flash"
   ]
 }
