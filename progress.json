@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 748.4959135055542,
+  "sizeMB": 749.3920793533325,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1257,6 +1257,7 @@
     "10-gnomes-2-walk-in-the-park",
     "1100_ExtremeRacing",
     "1100_alien_invasion",
-    "1100_ambition"
+    "1100_ambition",
+    "1100_tunnel_rush"
   ]
 }
