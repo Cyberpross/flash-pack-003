@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 591.3787107467651,
+  "sizeMB": 591.7572908401489,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1223,6 +1223,7 @@
     "shus-sandwich-shop",
     "siegius_flash-game",
     "themehotel",
-    "teletoon-personality-test"
+    "teletoon-personality-test",
+    "slackman_flash"
   ]
 }
