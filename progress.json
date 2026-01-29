@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 591.7572908401489,
+  "sizeMB": 591.8019857406616,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1224,6 +1224,7 @@
     "siegius_flash-game",
     "themehotel",
     "teletoon-personality-test",
-    "slackman_flash"
+    "slackman_flash",
+    "sky-defender"
   ]
 }
