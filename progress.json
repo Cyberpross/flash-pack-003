@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 71.61899089813232,
+  "sizeMB": 71.99628353118896,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1052,6 +1052,7 @@
     "dead_zed_21",
     "sonic-break-the-target",
     "cyberchase_web_game3_flash",
-    "cz_retro_600_flash"
+    "cz_retro_600_flash",
+    "crimsonroom_flash"
   ]
 }
