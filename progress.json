@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 742.2208881378174,
+  "sizeMB": 742.3850831985474,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1251,6 +1251,7 @@
     "worlds_hg2",
     "wowgamebeta3.2newground",
     "1100_commando_2",
-    "1100_flappy"
+    "1100_flappy",
+    "1100_flash_arkanoid"
   ]
 }
