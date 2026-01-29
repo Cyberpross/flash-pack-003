@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 17.504777908325195,
+  "sizeMB": 24.69885540008545,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1021,6 +1021,7 @@
     "kumakinoko",
     "2097-monster-basement",
     "2431-open-doors",
-    "28_20210430"
+    "28_20210430",
+    "2d-world"
   ]
 }
