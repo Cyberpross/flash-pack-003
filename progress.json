@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 297.01829624176025,
+  "sizeMB": 297.220685005188,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1148,6 +1148,7 @@
     "killthepopups_flash",
     "the-legend-of-calamity-jane-presto-english",
     "hot-air-bloon_202312",
-    "35159"
+    "35159",
+    "hot-air-bloon"
   ]
 }
