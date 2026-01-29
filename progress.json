@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 443.67949867248535,
+  "sizeMB": 444.03979873657227,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1196,6 +1196,7 @@
     "ratatouille-eats-crepes_202407",
     "raze-2",
     "interactive_solid_physics_2_by_austron_d1qdmhx_flash",
-    "irasate"
+    "irasate",
+    "little-chef-pacman_flash"
   ]
 }
