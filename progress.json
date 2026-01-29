@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 602.8518857955933,
+  "sizeMB": 604.866979598999,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1229,6 +1229,7 @@
     "scratch-2.0_202401",
     "stark-tower-defense",
     "sports-heads-tennis-open",
-    "sports_heads_football_championship_flash"
+    "sports_heads_football_championship_flash",
+    "samorost-2-demo"
   ]
 }
