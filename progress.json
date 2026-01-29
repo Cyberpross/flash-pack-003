@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 158.65417861938477,
+  "sizeMB": 160.70733642578125,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1094,6 +1094,7 @@
     "1100_action_driving_game",
     "1100_barry_potter",
     "1100_park_a_lot",
-    "1100_steppenwolf_episode_12"
+    "1100_steppenwolf_episode_12",
+    "1100_steppenwolf_episode_22"
   ]
 }
