@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 1023.1820163726807,
+  "sizeMB": 1023.3779153823853,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1380,6 +1380,7 @@
     "dogpound",
     "Indestructotank_flash",
     "Example_flash13",
-    "you-got-stuffed-and-served"
+    "you-got-stuffed-and-served",
+    "insaneorb_flash"
   ]
 }
