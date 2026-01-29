@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 453.80080223083496,
+  "sizeMB": 453.807071685791,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1200,6 +1200,7 @@
     "little-chef-pacman_flash",
     "main_20210513",
     "make_the_world_a_better_place",
-    "polly_202102"
+    "polly_202102",
+    "pong_20201122"
   ]
 }
