@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 769.4159049987793,
+  "sizeMB": 773.1283884048462,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1273,6 +1273,7 @@
     "2585-totem-destroyer",
     "spritz_flash",
     "game_monsterbaby",
-    "game_20210719"
+    "game_20210719",
+    "electric-box-2"
   ]
 }
