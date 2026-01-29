@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 101.53453826904297,
+  "sizeMB": 101.55581188201904,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1069,6 +1069,7 @@
     "wallball",
     "prince_202307",
     "play-othello-with-mario",
-    "radialsnake_flash"
+    "radialsnake_flash",
+    "screensavers_202309"
   ]
 }
