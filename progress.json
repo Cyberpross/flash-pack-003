@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 443.66297817230225,
+  "sizeMB": 443.6643362045288,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1194,6 +1194,7 @@
     "puffle-paddle-sa",
     "kusoge2",
     "ratatouille-eats-crepes_202407",
-    "raze-2"
+    "raze-2",
+    "interactive_solid_physics_2_by_austron_d1qdmhx_flash"
   ]
 }
