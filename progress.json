@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 779.6728591918945,
+  "sizeMB": 780.1417226791382,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1279,6 +1279,7 @@
     "doublewires_flash",
     "crab_attack",
     "epic-911-battle",
-    "flash_JDF"
+    "flash_JDF",
+    "flash_basic_sonic"
   ]
 }
