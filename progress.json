@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 983.6348676681519,
+  "sizeMB": 983.6769075393677,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1355,6 +1355,7 @@
     "blips-flash-game-2005",
     "bloons-td4-expansion",
     "y8-browser-web-setup-1.0.10_202502",
-    "bubblespinner_flash"
+    "bubblespinner_flash",
+    "dkonga_flash"
   ]
 }
