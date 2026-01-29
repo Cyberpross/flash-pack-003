@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 780.1417226791382,
+  "sizeMB": 780.197340965271,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1280,6 +1280,7 @@
     "crab_attack",
     "epic-911-battle",
     "flash_JDF",
-    "flash_basic_sonic"
+    "flash_basic_sonic",
+    "flash_tikky"
   ]
 }
