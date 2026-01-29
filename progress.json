@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 453.807071685791,
+  "sizeMB": 456.43739891052246,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1201,6 +1201,7 @@
     "main_20210513",
     "make_the_world_a_better_place",
     "polly_202102",
-    "pong_20201122"
+    "pong_20201122",
+    "pony-creator"
   ]
 }
