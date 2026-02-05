@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 461.0592842102051,
+  "sizeMB": 464.37221240997314,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -952,6 +952,7 @@
     "cubed_game",
     "cubefield_flash",
     "cubicle-freakout",
-    "candy-crush-all-flash-versions"
+    "candy-crush-all-flash-versions",
+    "create.swf"
   ]
 }
