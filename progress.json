@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 32.17347812652588,
+  "sizeMB": 32.72395896911621,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -748,6 +748,7 @@
     "cyberchase_dataclusters_flash",
     "cyberchase_hardproblems_flash",
     "cyberchase_stop_that_creature_flash",
-    "cr2_20220219"
+    "cr2_20220219",
+    "crimson_room"
   ]
 }
