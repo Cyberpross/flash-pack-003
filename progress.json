@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 263.60110664367676,
+  "sizeMB": 263.9964485168457,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -844,6 +844,7 @@
     "clock_202408",
     "crab_attack",
     "create-zombie-creator",
-    "create_a_ride_version_2"
+    "create_a_ride_version_2",
+    "contraption_202402"
   ]
 }
