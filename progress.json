@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 80.37944984436035,
+  "sizeMB": 82.09127235412598,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -770,6 +770,7 @@
     "cirno-training",
     "capes-rpg-demo",
     "cactus-mccoy-2",
-    "chicken-wings"
+    "chicken-wings",
+    "charger-escape"
   ]
 }
