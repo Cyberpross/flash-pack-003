@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 182.5777587890625,
+  "sizeMB": 183.165846824646,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -825,6 +825,7 @@
     "command-conquer-generals-combat-cards",
     "commando-battle-of-britain",
     "charades_swf",
-    "chinese-recipes"
+    "chinese-recipes",
+    "choco-factory_"
   ]
 }
