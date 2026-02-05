@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 331.87108993530273,
+  "sizeMB": 332.0886173248291,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -870,6 +870,7 @@
     "createX",
     "canterlot-defense-2",
     "chicken-little-galactic-traveler",
-    "catch_"
+    "catch_",
+    "catch-dash"
   ]
 }
