@@ -1,6 +1,6 @@
 {
   "pack": 3,
-  "sizeMB": 174.56883907318115,
+  "sizeMB": 174.95017910003662,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -817,6 +817,7 @@
     "create-glitter-globe-maker",
     "create-plushie-maker-2",
     "cook-until-done_202401",
-    "crackhouse-cleanup"
+    "crackhouse-cleanup",
+    "create-xmas-tree"
   ]
 }
